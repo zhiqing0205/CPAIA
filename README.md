@@ -1,5 +1,5 @@
 # Multi-Task Consistent Preservation Adversarial Information Aggregation Network
-![CPAIA-model]([http://cdn.ziuch.cn/cross-modal-retrieval/CPAIA/CPAIA-model-2.2-1.png](https://img.ziuch.top/i/2023/08/21/CPAIA-model-2.2-2.png)
+![CPAIA-model](https://img.ziuch.top/i/2023/08/21/CPAIA-model-2.2-2.png)
 ## Introduction
 This framework is our proposed CPAIA, an end-to-end framework containing image and text sub-networks. There are three steps, the first step is feature extraction, where the feature vectors of different modalities are extracted by VGG and BOW respectively. The second step is representation separation, where the feature vectors are separated into mode-private and mode-shared components by means of a representation separation module (RS). The final step is a multi-task adversarial learning module (MA) to generate a discriminative common subspace.
 
