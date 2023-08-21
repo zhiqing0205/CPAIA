@@ -10,7 +10,17 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-We use the [XMedia](http://59.108.48.34/tiki/XMediaNet/xmedia_new.html?1217_1#Xmedia) dataset for our experiments.
+### Wikipedia:
+[website](http://www.svcl.ucsd.edu/projects/crossmodal/) [link](https://file.ziuch.top/s/lt34gk)
+
+### Nuswide：
+[website](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html) [link](https://file.ziuch.top/s/wzbaad)
+
+
+### XMedia
+[website](http://59.108.48.34/tiki/XMediaNet/)
+
+**link：Unavailable (file only available for staff to apply, please contact the corresponding author of this article for assistance if needed)**
 
 ## Training
 ```shell
